@@ -1,4 +1,4 @@
-🖼️ Interactive Image Gallery – Responsive Front-End Project
+# 🖼️ Interactive Image Gallery – Responsive Front-End Project
 
 I developed a modern and fully responsive Image Gallery web app using HTML, CSS, and JavaScript, designed to showcase images with a clean and engaging layout.
 
